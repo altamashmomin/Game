@@ -1,0 +1,17 @@
+{
+  "name": "05-physics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "matter-js": "^0.14.2",
+    "phaser-animated-tiles": "^2.0.2"
+  }
+}
